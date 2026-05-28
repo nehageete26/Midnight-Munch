@@ -1,6 +1,7 @@
 # Midnight-Munch
 
-![Uploading image.png…]()
+<img width="629" height="177" alt="image" src="https://github.com/user-attachments/assets/6cd40888-1671-47bd-aafb-b7447a340adb" />
+
 
 
 ## 📌 Overview
