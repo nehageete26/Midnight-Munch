@@ -11,6 +11,9 @@ Midnight Munch is a fully automated Telegram food ordering bot built with n8n (n
 ## 🔄 How it works
 <img width="687" height="206" alt="image" src="https://github.com/user-attachments/assets/5ba17eb2-5401-4b0e-b696-0c9d25392f8a" />
 
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/cdbab413-c7cb-45c2-80d4-57b6547de4c1" />
+
+
 
 ## ✨ Features
 📋 Menu lookup — lists all available dishes with real-time stock count
