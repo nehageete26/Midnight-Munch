@@ -1,5 +1,8 @@
 # Midnight-Munch
-<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/dda604d7-1939-4bc0-ba85-64b23b5ed46a" />
+
+![Uploading image.png…]()
+
+
 ## 📌 Overview
 Midnight Munch is a fully automated Telegram food ordering bot built with n8n (no code / low code workflow automation). Users can chat naturally with the bot to browse the menu, check inventory, place orders, and get answers to FAQs — all without any manual intervention. Every order is automatically logged into a Google Sheet.
 
